@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformationDL\bin\Debug\ClientInformationDL.dll
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformationDL\bin\Debug\ClientInformationDL.pdb
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformationDL\obj\Debug\ClientInformationDL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformationDL\obj\Debug\ClientInformationDL.dll
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformationDL\obj\Debug\ClientInformationDL.pdb
