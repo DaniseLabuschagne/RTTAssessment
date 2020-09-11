@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\obj\Debug\ClientInfoService.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\obj\Debug\ClientInfoService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\bin\ClientInfoService.dll.config
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\bin\ClientInfoService.dll
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\bin\ClientInfoService.pdb
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\bin\ClientInformationDL.dll
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\bin\ClientInformationDL.pdb
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\obj\Debug\ClientInfoService.csproj.CopyComplete
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\obj\Debug\ClientInfoService.dll
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\obj\Debug\ClientInfoService.pdb

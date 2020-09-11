@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\bin\Debug\ClientInformation.exe.config
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\bin\Debug\ClientInformation.exe
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\bin\Debug\ClientInformation.pdb
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.Properties.Resources.resources
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.csproj.CopyComplete
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.exe
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.pdb
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.frmClientList.resources
+C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.frmClientInformation.resources
