@@ -3,3 +3,9 @@ C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformationDL\bin\Debug\Clie
 C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformationDL\obj\Debug\ClientInformationDL.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformationDL\obj\Debug\ClientInformationDL.dll
 C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformationDL\obj\Debug\ClientInformationDL.pdb
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformationDL\bin\Debug\ClientInformationDL.dll
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformationDL\bin\Debug\ClientInformationDL.pdb
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformationDL\obj\Debug\ClientInformationDL.csprojAssemblyReference.cache
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformationDL\obj\Debug\ClientInformationDL.csproj.CoreCompileInputs.cache
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformationDL\obj\Debug\ClientInformationDL.dll
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformationDL\obj\Debug\ClientInformationDL.pdb

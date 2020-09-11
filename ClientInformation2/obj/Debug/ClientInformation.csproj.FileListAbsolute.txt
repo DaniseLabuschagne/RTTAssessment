@@ -9,3 +9,15 @@ C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\Clien
 C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.pdb
 C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.frmClientList.resources
 C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInformation2\obj\Debug\ClientInformation.frmClientInformation.resources
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\bin\Debug\ClientInformation.exe.config
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\bin\Debug\ClientInformation.exe
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\bin\Debug\ClientInformation.pdb
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\obj\Debug\ClientInformation.csprojAssemblyReference.cache
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\obj\Debug\ClientInformation.frmClientList.resources
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\obj\Debug\ClientInformation.frmClientInformation.resources
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\obj\Debug\ClientInformation.Properties.Resources.resources
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\obj\Debug\ClientInformation.csproj.GenerateResource.cache
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\obj\Debug\ClientInformation.csproj.CoreCompileInputs.cache
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\obj\Debug\ClientInformation.csproj.CopyComplete
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\obj\Debug\ClientInformation.exe
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInformation2\obj\Debug\ClientInformation.pdb

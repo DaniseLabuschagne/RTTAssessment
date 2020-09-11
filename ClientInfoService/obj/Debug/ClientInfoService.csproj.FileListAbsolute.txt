@@ -8,3 +8,13 @@ C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\bin\ClientInform
 C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\obj\Debug\ClientInfoService.csproj.CopyComplete
 C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\obj\Debug\ClientInfoService.dll
 C:\Users\Admin\source\repos\DaniseLabuschagne\ClientInfoService\obj\Debug\ClientInfoService.pdb
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\bin\ClientInfoService.dll.config
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\bin\ClientInfoService.dll
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\bin\ClientInfoService.pdb
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\bin\ClientInformationDL.dll
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\bin\ClientInformationDL.pdb
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\obj\Debug\ClientInfoService.csprojAssemblyReference.cache
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\obj\Debug\ClientInfoService.csproj.CoreCompileInputs.cache
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\obj\Debug\ClientInfoService.csproj.CopyComplete
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\obj\Debug\ClientInfoService.dll
+C:\ProjectsTFS\DHA\eHA2\RTTAssessment\ClientInfoService\obj\Debug\ClientInfoService.pdb
